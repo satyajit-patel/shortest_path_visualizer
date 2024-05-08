@@ -4,7 +4,7 @@ This is a project for visualizing the shortest path from source to destination. 
 
 <h1>React.js Shortest-Path-Visualizer App</h1>
 <p>
-	## find the website live [here](https://salmon-sea-03f0b461e.5.azurestaticapps.net)
+	[find the website live here](https://salmon-sea-03f0b461e.5.azurestaticapps.net)
 </p>
 
 ## 💻 Tech Stack
