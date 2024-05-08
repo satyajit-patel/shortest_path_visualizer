@@ -28,3 +28,4 @@ clone the repo
 
 ```
 then ```npm run```. You can then access the application on ```localhost:3000```.
+## find the website live [here](https://satyajit-patel.github.io/shortest_path_visualizer/)
