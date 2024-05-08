@@ -3,9 +3,8 @@
 This is a project for visualizing the shortest path from source to destination. The project also focuses on the different ways the algorithm can traverse nodes. Theoretically, the possible "moves" are endless. The current moves used in the application are based on chess moves (rook, bishop, and queen).
 
 <h1>React.js Shortest-Path-Visualizer App</h1>
-<p>
-	[find the website live here](https://salmon-sea-03f0b461e.5.azurestaticapps.net)
 </p>
+<a href="https://salmon-sea-03f0b461e.5.azurestaticapps.net" target="_blank">find website live here</a>
 
 ## 💻 Tech Stack
 
